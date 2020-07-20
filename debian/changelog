@@ -1,0 +1,31 @@
+ros-melodic-realsense2-framos-description (3.2.14-1bionic) bionic; urgency=high
+
+  * Merge pull request #5 <https://github.com/LCAS/realsense/issues/5> from LCAS/for_v2.33
+    imported from FRAMOS packages
+  * imported from FRAMOS packages
+  * Contributors: Marc Hanheide
+
+ -- Marc Hanheide <marc@hanheide.net>  Mon, 20 Jul 2020 00:00:00 -0000
+
+ros-melodic-realsense2-framos-description (3.0.2-1bionic) bionic; urgency=high
+
+
+
+ -- Marc Hanheide <marc@hanheide.net>  Sat, 06 Jun 2020 00:00:00 -0000
+
+ros-melodic-realsense2-framos-description (3.0.1-1bionic) bionic; urgency=high
+
+  * changed maintainer
+  * Contributors: Marc Hanheide
+
+ -- Marc Hanheide <marc@hanheide.net>  Sat, 06 Jun 2020 00:00:00 -0000
+
+ros-melodic-realsense2-framos-description (3.0.0-1bionic) bionic; urgency=high
+
+  * renaming complete, compiles
+  * renamed dirs
+  * Contributors: Marc Hanheide
+
+ -- Sergey Dorodnicov <sergey.dorodnicov@intel.com>  Sat, 06 Jun 2020 00:00:00 -0000
+
+
